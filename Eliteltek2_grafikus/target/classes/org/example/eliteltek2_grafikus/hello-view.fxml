@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1260.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.eliteltek2_grafikus.HelloController">
+   <children>
+      <ListView fx:id="listView" layoutX="14.0" layoutY="50.0" prefHeight="656.0" prefWidth="269.0" />
+      <MenuBar layoutY="2.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Fájl">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#loadData" text="Beolvasás" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <LineChart fx:id="lineChart" layoutX="297.0" layoutY="50.0" prefHeight="400.0" prefWidth="952.0">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" fx:id="xAxis" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis fx:id="yAxis" side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <CheckBox fx:id="youthCheckBox" layoutX="334.0" layoutY="450.0" mnemonicParsing="false" onAction="#updateLineChart" text="Fiatal" />
+      <CheckBox fx:id="adultCheckBox" layoutX="334.0" layoutY="473.0" mnemonicParsing="false" onAction="#updateLineChart" text="Felnőtt" />
+      <CheckBox fx:id="allAgesCheckBox" layoutX="334.0" layoutY="498.0" mnemonicParsing="false" onAction="#updateLineChart" text="Összes" />
+      <Spinner fx:id="spinnerStartYear" layoutX="413.0" layoutY="446.0" />
+      <Spinner fx:id="spinnerEndYear" layoutX="413.0" layoutY="478.0" />
+   </children>
+</AnchorPane>

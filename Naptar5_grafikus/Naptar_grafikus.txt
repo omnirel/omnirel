@@ -1,0 +1,58 @@
+Céges meeting;2025-04-01;09:00;Fontos projektindítás, mindenki legyen ott!  
+Orvosi vizsgálat;2025-04-01;14:30;Fogorvos, ne felejtsd otthon a TAJ-kártyád!  
+Edzés;2025-04-01;18:00;Kondi terem, ma lábnap!  
+Szülinapi buli;2025-04-02;19:00;Petiéknél, tortát ne felejtsd el!  
+Prezentáció;2025-04-03;10:00;Ügyfél előtt, utána ebéd a csapattal  
+Mozizás;2025-04-03;20:00;Akciófilm, popcorn a miénk!  
+Bevásárlás;2025-04-04;17:30;Lista a telefonon, tej ne maradjon ki  
+Kirándulás;2025-04-05;09:00;Hegyi túra, esőkabátot vigyél!  
+Játékest;2025-04-05;19:00;Társasjáték klub, új játék kipróbálása  
+Projekt leadás;2025-04-06;12:00;Határidős munka, ne maradjon ki semmi  
+Koncert;2025-04-06;20:00;Rock banda, előtte találkozó a téren  
+Sportnap;2025-04-07;16:00;Foci a parkban, hozz plusz egy labdát  
+Családi vacsora;2025-04-07;19:30;Étterem foglalva, különleges menü  
+Autószerelő;2025-04-08;08:00;Olajcsere és fékellenőrzés  
+Házimozi;2025-04-08;21:00;Új film, pizza rendelés indul!  
+Takarítás;2025-04-09;10:00;Nagytakarítás, ablakmosás is lesz  
+Tanfolyam;2025-04-09;18:00;Programozás, készülni kell a vizsgára  
+Uszoda;2025-04-10;07:00;Reggeli úszás, ne felejtsd a törölközőt!  
+Konferencia;2025-04-10;13:00;Tech előadás, jegyzetelj sokat!  
+Jóga;2025-04-11;18:00;Stresszoldás, kényelmes ruha kell  
+Kertészkedés;2025-04-12;10:00;Palántázás, földet hozni kell  
+Baráti találkozó;2025-04-12;16:00;Kávézó, új helyet próbálunk ki  
+Színház;2025-04-12;20:00;Komédia, előtte vacsora a téren  
+Vásárlás;2025-04-13;14:00;Új ruhák, kuponokat ne felejtsd el  
+Online meeting;2025-04-14;11:00;Zoom hívás, legyen bekapcsolva a kamera  
+Labdarúgó meccs;2025-04-14;19:00;TV-n nézzük, pizzát rendeljünk  
+Fodrász;2025-04-15;15:00;Hajvágás, új frizura kipróbálása  
+Kutyaséta;2025-04-15;17:30;Parkban, hosszabb séta a jó idő miatt  
+Karaoke est;2025-04-16;20:00;Barátokkal, kedvenc dalok listája kész!  
+Munkamegbeszélés;2025-04-17;09:00;Prezentáció, kávézunk előtte?  
+Táncóra;2025-04-17;18:30;Salsa, kényelmes cipő kell  
+Kirándulás;2025-04-18;08:00;Hegyekbe, túrabakancs ne maradjon otthon  
+Könyvtár;2025-04-18;14:00;Könyvek vissza, újakat is kihozok  
+Pizza party;2025-04-18;20:00;Otthon, mindenki hoz egy feltétet  
+Festés;2025-04-19;09:30;Hálószoba, új szín kiválasztva  
+Horgászat;2025-04-19;06:00;Tópart, csalihalat venni kell  
+Családi ebéd;2025-04-20;12:30;Nagyiknál, süti lesz desszertnek  
+Séta;2025-04-20;18:00;Naplemente, fotózás is lesz  
+Orvosi ellenőrzés;2025-04-21;10:00;Labor, vérvétel éhgyomorra  
+Társasjáték est;2025-04-21;19:00;Barátokkal, új játék kipróbálása  
+Sportverseny;2025-04-22;16:00;Futóverseny, 5 km-es táv  
+Üzleti ebéd;2025-04-23;13:00;Vendéglő, új ügyféllel találkozó  
+Videójáték;2025-04-23;21:00;Új frissítés, hosszú este lesz  
+Múzeumlátogatás;2025-04-24;11:00;Kiállítás, vezetett túrával  
+Tanulmányi verseny;2025-04-24;14:00;Programozás, felkészülés kell  
+Kertmozi;2025-04-24;20:30;Romantikus film, pokrócot hozni kell  
+Előadás;2025-04-25;15:00;Oktatóanyag, jegyzetelni kell  
+Főzés;2025-04-25;19:00;Új recept, közösen sütünk-főzünk  
+Úszás;2025-04-26;08:00;Uszoda, reggeli edzés  
+Piknik;2025-04-26;12:00;Parkban, szendvicseket készítek  
+Jótékonysági futás;2025-04-27;09:00;5 km, póló jár a résztvevőknek  
+Hegyikerékpár;2025-04-27;15:00;Terep, bukósisak kell  
+Ebédfőzés;2025-04-28;11:00;Családi recept, nagyi segít  
+Társalgóest;2025-04-28;20:00;Kávézó, új témákat beszélünk meg  
+Játékprogramozás;2025-04-29;17:00;JavaFX, új ötletek kipróbálása  
+Filmmaraton;2025-04-29;22:00;Éjszakába nyúló, kedvenc filmek  
+Munkavacsora;2025-04-30;19:00;Üzleti megbeszélés, étteremben  
+Tűzijáték;2025-04-30;22:00;Hónap zárása, látványos fények!  
