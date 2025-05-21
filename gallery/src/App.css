@@ -1,0 +1,90 @@
+/* App.css */
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: #f5f5f5;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.upload {
+  margin-bottom: 2rem;
+}
+
+.upload input {
+  padding: 0.5rem;
+  width: 60%;
+  max-width: 400px;
+  margin-right: 0.5rem;
+}
+
+.upload button {
+  padding: 0.5rem 1rem;
+  background: #0982c5;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.upload button:hover {
+  background: #076ba0;
+}
+
+.error {
+  color: red;
+  margin-top: 0.5rem;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.stars {
+  margin-top: 0.5rem;
+}
+
+.stars span {
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #bbb;
+  transition: color 0.2s;
+}
+
+.stars span.active {
+  color: #f5b301;
+}
+
+.stars span:hover {
+  color: #f5b301;
+}
